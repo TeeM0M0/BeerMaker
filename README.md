@@ -11,4 +11,9 @@ aux autres pages soit les étapes de fabrication ou l'outil de fabrication .
 
   ![menu](Assets/BeerMakerRessources/bearmakerRDM/splashMenu.png)
 
+### Etapes de fabrication
 
+Sur la page d'étapes de fabrication, vous avez accès aux différentes étapes de fabrication de la bierre.
+Toutes les étapes sont affiché à l'aide d'un switch case.
+
+![menu](Assets/BeerMakerRessources/bearmakerRDM/etape.png)
