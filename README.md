@@ -16,4 +16,12 @@ aux autres pages soit les étapes de fabrication ou l'outil de fabrication .
 Sur la page d'étapes de fabrication, vous avez accès aux différentes étapes de fabrication de la bierre.
 Toutes les étapes sont affiché à l'aide d'un switch case.
 
-![menu](Assets/BeerMakerRessources/bearmakerRDM/etape.png)
+![etapes](Assets/BeerMakerRessources/bearmakerRDM/etape.png)
+
+### Outil de fabrication
+
+Sur la page outil de fabrication l'utilisateur à la possibilité de rentré à l'aide des inputs
+la quantité de bière voulu en L , le pourcentage d'alcool et la moyenne EBC des grains.
+A l'aide de ces informations nous aurons la quantité de tout les ingrédiants nécessaire à notre bière ainsi que sa couleur.
+
+![outil](Assets/BeerMakerRessources/bearmakerRDM/outil.png)
