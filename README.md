@@ -9,5 +9,4 @@ formulaire qui calcule la quantité nécessaire des différents ingrédients pou
 L'application démarre sur un splash Screen de 3 s, on est ensuite redirigé sur la page d'accueil sur laquelle se trouvent les boutons pour accéder 
 aux autres pages soit les étapes de fabrication ou l'outil de fabrication .
 
-![splash](Assets/BeerMakerRessources/bearmakerRDM/Screenshot_20231222_112647.png)
-![menu](Assets/BeerMakerRessources/bearmakerRDM/Screenshot_20231222_112824.png)
+![menu](Assets/BeerMakerRessources/bearmakerRDM/splashMenu.png)
